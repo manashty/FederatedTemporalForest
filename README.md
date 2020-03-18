@@ -3,7 +3,6 @@
 This is a test
 
 ## Model
-xx
-xf
+This is a great model.
 
 ## Second
